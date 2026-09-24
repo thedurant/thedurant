@@ -1,20 +1,18 @@
-# Hey there! I'm Kevin
+# Hi, I'm Kevin Durant
 
-Welcome to my GitHub profile! 🚀 I'm a full-stack TypeScript developer based in the sunny side of Spain. I spend my days (and a lot of my nights) crafting elegant and efficient applications with a focus on modern web technologies. When I'm not coding, you'll find me exploring new hiking trails, reading up on the latest tech trends, or catching a basketball game (Go Warriors!).
+Hey there! I'm a full-stack TypeScript developer living in the vibrant and sunny city of Madrid, Spain. When I'm not coding, you can find me playing basketball, exploring new coffee spots, or binge-watching my favorite shows.
 
 ### What I'm Into
-- Full-stack development with TypeScript, React, and Node.js
-- Building scalable and maintainable applications
-- Exploring new tools and frameworks in the web development ecosystem
+- Building scalable web applications
+- Learning new technologies and frameworks
 - Contributing to open-source projects
+- Traveling and experiencing different cultures
 
 ### Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
 ### Currently Building
-I'm currently working on a personal project to create a real-time sports statistics tracker using Next.js and WebSocket. Stay tuned for updates! 🏀💻
-
-Feel free to check out my repositories and drop a ⭐ if you find anything interesting. Let's connect and build something amazing together! 🚀
+I'm currently working on a new project that aims to streamline event management for local communities using the latest in TypeScript and React. Stay tuned for updates!
